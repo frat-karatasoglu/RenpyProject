@@ -14,9 +14,8 @@ Ren'Py'yi indirip kurun.
 
 Bu projeyi GitHub’dan indirin veya klonlayın:
 
-bash
-Kopyala
-Düzenle
+
+
 git clone https://github.com/kullaniciadi/joe-mysterious-treasure.git
 Ren'Py'yi açın ve bu proje klasörünü seçin.
 
